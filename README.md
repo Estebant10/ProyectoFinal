@@ -1,7 +1,7 @@
 # ProyectoFinal
 Estructura de Datos, proyecto final
-¡Bienveniods  al repositorio de mi proyecto final sobre el algoritmo de  huffman !
-En este aarchivo encontrara  informacion documentada sobre mi codigo, su proposito  y como ejecutarl
+¡Bienvenidoss  al repositorio de mi proyecto final sobre el algoritmo de  huffman !
+En este archivo encontrara  informacion documentada sobre mi codigo, su proposito  y como ejecutarlo.
 
 El objetivo de este proyecto es implementar el algoritmo de compresion de datos de huffman.
 
